@@ -28,7 +28,7 @@ const Navbar = () => {
           <NavLink href='#contact'>Contact</NavLink>
         </NavItems>
         <ButtonContainer>
-          <GitHubButton href={Bio.github} target="_blank">Lets connect</GitHubButton>
+          <GitHubButton href="https://calendly.com/sitecraftdynamics/30min" target="_blank">Lets connect</GitHubButton>
         </ButtonContainer>
         {
           isOpen &&
