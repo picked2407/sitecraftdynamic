@@ -1,12 +1,11 @@
-import React from "react";
-import { InlineWidget } from "react-calendly";
+import React from 'react';
 
-const App = () => {
-  return (
-    <div className="App">
-      <InlineWidget url="https://calendly.com/sitecraftdynamics/30min" />
-    </div>
-  );
+const index = () => {
+    return (
+        <div>
+            {/* Your other components and code go here */}
+        </div>
+    );
 };
 
-export default App;
+export default index;
