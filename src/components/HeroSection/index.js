@@ -28,7 +28,7 @@ const HeroSection = () => {
                             </Span>
                         </TextLoop>
                         <SubTitle>{Bio.description}</SubTitle>
-                        <ResumeButton href={Bio.resume} target='display'>Lets Connect</ResumeButton>
+                        <ResumeButton href="https://calendly.com/sitecraftdynamics/30min" target='display'>Lets Connect</ResumeButton>
                     </HeroLeftContainer>
 
                     <HeroRightContainer id="Right">
