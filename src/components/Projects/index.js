@@ -12,7 +12,7 @@ const Projects = ({ openModal, setOpenModal }) => {
       <Wrapper>
         <Title>Projects</Title>
         <Desc>
-          I have worked on a wide range of projects. Here are some of my projects.
+          We have worked on a wide range of projects. Here are some of our previous works.
         </Desc>
         {/* Remove the ToggleButtonGroup and its child ToggleButton components */}
         <CardContainer>
