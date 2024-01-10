@@ -4,7 +4,7 @@ export const Bio = {
     "Development Agency",
   ],
   description:
-    "SiteCraftDynamics: Your Top-Rated Web Development Partner! We specialize in crafting exceptional digital experiences, from eye-catching websites to robust applications. Trust us to blend creativity and expertise for cutting-edge solutions tailored to your needs",
+    "SiteCraftDynamics: Your Top-Rated Web Development Agency! We specialize in crafting exceptional digital experiences, from eye-catching websites to robust applications. Trust us to blend creativity and expertise for cutting-edge solutions tailored to your needs",
  
 };
 
