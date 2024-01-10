@@ -101,7 +101,7 @@ function Footer() {
           <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
-          &copy; 2024 SiteCraftDynamics. All rights reserved.
+          sitecraftdynamics@gmail.com
         </Copyright>
 
       </FooterWrapper>
