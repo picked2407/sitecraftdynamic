@@ -265,16 +265,16 @@ export const projects = [
   },
   {
     id: 1,
-    title: "Gartsidestreetdental",
+    title: "The wise Plan",
     description:
-      "Gartside Street Dental: Your Smile, Our Priority. Explore our website for comprehensive dental services, expert care, and a commitment to your oral health. From routine check-ups to advanced treatments, we're dedicated to providing personalized, top-quality dental care for a brighter, healthier smile",
+      "Making the once complex home selling process seamless and pain free",
     image:
-      "https://media.discordapp.net/attachments/1177326865434816556/1192893170879565876/image.png?ex=65eb54d6&is=65d8dfd6&hm=a8a295ab66fb77eb88bee1abe920a852a3f1a31699add13710f61ff03422beec&=&format=webp&quality=lossless&width=687&height=336",
+      "https://media.discordapp.net/attachments/1193183717548638301/1211687524104142930/image.png?ex=65ef1af1&is=65dca5f1&hm=10bfd6fba6499c29a368bfee37c426661e6da17375594a2ad6b515c7ef8e3655&=&format=webp&quality=lossless&width=687&height=336",
     tags: [
-      "Wordpress",
+      "Html, CSs",
     ],
     category: "web app",
-    webapp: "https://gartsidestreetdental.com/",
+    webapp: "https://thewiseplan.netlify.app/",
   },
   {
     id: 2,
