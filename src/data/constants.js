@@ -243,7 +243,7 @@ export const projects = [
     description:
       "Bibado.lt - Your go-to destination for premium baby products! Discover a curated selection of essentials designed to make parenting a breeze. From feeding solutions to adorable accessories, we've got you covered for every precious moment with your little ones.",
     image:
-      "https://media.discordapp.net/attachments/1177326865434816556/1192888460319666176/image.png?ex=65aab6f3&is=659841f3&hm=75339f6eba126c94d1ed4a296462e3b2627541c9d4a36645579a55c2954ff99c&=&format=webp&quality=lossless&width=1257&height=613",
+      "https://media.discordapp.net/attachments/1177326865434816556/1192888460319666176/image.png?ex=65eb5073&is=65d8db73&hm=848e916ed557b320c3b7be52b3ae9a917f133873146b073b44dc3af7c73a9b70&=&format=webp&quality=lossless&width=1257&height=613",
     tags: [
       "Shopify builder",
       "Website Builder"
@@ -257,7 +257,7 @@ export const projects = [
     description:
       "DarturCrafts: Crafting Joy for Little Ones! Explore our collection of handcrafted wooden toys, thoughtfully designed to inspire imagination and play. From timeless classics to unique creations, find the perfect toy to foster creativity and delight in every child's journey.",
     image:
-      "https://media.discordapp.net/attachments/1177326865434816556/1192890532108705812/image.png?ex=65aab8e1&is=659843e1&hm=3dbe39eeb9113d96167cf69786684dd315e2367ccd9439addd49bcfa93183ef4&=&format=webp&quality=lossless&width=1248&height=613",
+      "https://media.discordapp.net/attachments/1177326865434816556/1192890532108705812/image.png?ex=65eb5261&is=65d8dd61&hm=4a6abd0a080cd89b160d9ae5854193e145ec8ac780166f6ce75df93c1a96b559&=&format=webp&quality=lossless&width=1248&height=613",
     tags: ["Shopfify" ],
     category: "web app",
     webapp: "https://www.darturcrafts.lv/",
@@ -269,7 +269,7 @@ export const projects = [
     description:
       "Gartside Street Dental: Your Smile, Our Priority. Explore our website for comprehensive dental services, expert care, and a commitment to your oral health. From routine check-ups to advanced treatments, we're dedicated to providing personalized, top-quality dental care for a brighter, healthier smile",
     image:
-      "https://media.discordapp.net/attachments/1177326865434816556/1192893170879565876/image.png?ex=65aabb56&is=65984656&hm=b28bd60667141d837a5a8e35b6313f0c6694b98f653baa95b9592fd02d9a09fe&=&format=webp&quality=lossless&width=1253&height=613",
+      "https://media.discordapp.net/attachments/1177326865434816556/1192893170879565876/image.png?ex=65eb54d6&is=65d8dfd6&hm=a8a295ab66fb77eb88bee1abe920a852a3f1a31699add13710f61ff03422beec&=&format=webp&quality=lossless&width=687&height=336",
     tags: [
       "Wordpress",
     ],
@@ -282,7 +282,7 @@ export const projects = [
     description:
       "Tapeter.eu: Transform Your Space with Style. Explore a world of premium wallpapers for every taste and room. Elevate your interior design with our curated collection, featuring a blend of trends and timeless elegance. Unleash the power of aesthetics with Tapeter.eu.",
     image:
-      "https://media.discordapp.net/attachments/1177326865434816556/1192896487722594406/image.png?ex=65aabe6d&is=6598496d&hm=4cfd680129f3d7b72cc68a48f6890fabc9d308696b9d151aeadfa4024411df26&=&format=webp&quality=lossless&width=1256&height=613",
+      "https://media.discordapp.net/attachments/1177326865434816556/1192896487722594406/image.png?ex=65eb57ed&is=65d8e2ed&hm=adb6c0232097a7445b8c0322966c45f7de94bc08d81ec163bbae4c0a36e14198&=&format=webp&quality=lossless&width=1256&height=613",
     tags: ["Shopify"],
     webapp: "https://tapeter.eu",
   },
@@ -292,7 +292,7 @@ export const projects = [
     description:
       "We are M.IDEA Creative Group, based in the city of Miami, leading the retail and wholesale market in design and digital solutions. We are proud of our commitment to experience-based excellence, providing professional services to organizations, companies, corporations and entrepreneurs around the world. Our passion lies in providing creative solutions that enhance the digital presence and business and personal success of those who trust us.      ",
     image:
-      "https://media.discordapp.net/attachments/1177326865434816556/1192898628797350008/image.png?ex=65aac06c&is=65984b6c&hm=a5cd10342269d873017f7edcf4c8ab71325f0f0b286e836cb8afcdf30bb827ba&=&format=webp&quality=lossless&width=1260&height=613",
+      "https://media.discordapp.net/attachments/1177326865434816556/1192898628797350008/image.png?ex=65eb59ec&is=65d8e4ec&hm=37b6f81209b2e965f802f8f5edcbd920b678437c84cba875dc27a76e77f64d6c&=&format=webp&quality=lossless&width=687&height=335",
     tags: ["Next js, Framer motion"],
     webapp: "https://midea-new-website-gitmanager10.vercel.app/",
   },
@@ -302,7 +302,7 @@ export const projects = [
     description:
       "As a specialized consulting firm, we offer comprehensive services for entrepreneurs, small and medium-sized businesses.      ",
     image:
-      "https://media.discordapp.net/attachments/1177326865434816556/1192899299676262430/image.png?ex=65aac10c&is=65984c0c&hm=723801de68c0eb8e42617893a1bb30caad65d82bc3ea831172d7d34980ac421a&=&format=webp&quality=lossless&width=1260&height=613",
+      "https://media.discordapp.net/attachments/1177326865434816556/1192899299676262430/image.png?ex=65eb5a8c&is=65d8e58c&hm=7d257e36530426111e6167c577df058e5dc814a5c2955d2d53b39880721f7e58&=&format=webp&quality=lossless&width=687&height=335",
     tags: ["Next js"],
     category: "android app",
     webapp: "https://mub-new-website-gitmanager10.vercel.app/",
